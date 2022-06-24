@@ -1,4 +1,6 @@
-Color Flipper App that displays different color on the background everytime a button is clicked
+#Color Flipper App 
+
+Color Flipper that displays different color on the background everytime a button is clicked
 
 There are 2 modes to choose from in the Nav Bar, 
 * Simple Colors
